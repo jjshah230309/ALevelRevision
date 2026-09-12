@@ -1,0 +1,5 @@
+# Notes and revision material are the point of this repository, so almost
+# nothing is excluded.
+.DS_Store
+.venv/
+__pycache__/
